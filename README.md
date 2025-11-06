@@ -5,6 +5,7 @@ Here the picture :
 ![WhatsApp Image 2025-11-07 at 00 41 16](https://github.com/user-attachments/assets/aac48e96-da7d-44ef-bf76-dd74922c2a11)
 
 Circuit diagram :
+
 ![IMG_20251107_003926](https://github.com/user-attachments/assets/91ef1d72-9d18-4faa-a9ad-5ef773a599a3)
 
 
@@ -20,7 +21,9 @@ Here the components that I use :
 - Crustin terminal x3
 - 18650 Battery case x2
 
+
 The Final Result :
+
 ![WhatsApp Image 2025-11-07 at 00 53 55](https://github.com/user-attachments/assets/8f1742a3-6fad-4a44-863c-dd9111ad3250)
 
 you can see the led is alive! and ofcourse dont try to touch the aluminium wire, because it will electrifying you if you try to touch that
