@@ -32,7 +32,7 @@ The Final Result :
 
 ![WhatsApp Image 2025-11-07 at 00 53 55](https://github.com/user-attachments/assets/8f1742a3-6fad-4a44-863c-dd9111ad3250)
 
-you can see the led is alive! and of course dont try to touch the aluminium wire, because it will electrifying you if you try to touch that
+you can see the led is alive! and of course dont try to touch the aluminium wire, because it will electrifying you if you try to touch that!
 
 ---
 
