@@ -8,8 +8,7 @@ Here the picture :
 
 Circuit diagram :
 
-![IMG_20251107_003926](https://github.com/user-attachments/assets/91ef1d72-9d18-4faa-a9ad-5ef773a599a3)
-
+![IMG_20251122_002151](https://github.com/user-attachments/assets/4c7ae24d-51e9-499f-a8c6-ac54c80c570d)
 
 Here the components that I use :
 - Step up 1000Kv module x1
