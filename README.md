@@ -3,12 +3,16 @@ One of my biggest electronics art / creations
 
 - Remember to use gloves, because this is about electricity! Make sure you are safety from the High Voltage
 
+---
+
 Here the picture :
 ![WhatsApp Image 2025-11-07 at 00 41 16](https://github.com/user-attachments/assets/aac48e96-da7d-44ef-bf76-dd74922c2a11)
 
 Circuit diagram :
 
 ![IMG_20251122_002151](https://github.com/user-attachments/assets/4c7ae24d-51e9-499f-a8c6-ac54c80c570d)
+
+---
 
 Here the components that I use :
 - Step up 1000Kv module x1
@@ -22,6 +26,7 @@ Here the components that I use :
 - Crustin terminal x3
 - 18650 Battery case x2
 
+---
 
 The Final Result :
 
@@ -29,6 +34,7 @@ The Final Result :
 
 you can see the led is alive! and of course dont try to touch the aluminium wire, because it will electrifying you if you try to touch that
 
+---
 
 Inspiration :
 Nikola Tesla
