@@ -1,7 +1,7 @@
 # TESLA-COIL
 One of my biggest electronics art / creations
 
-- Remember to use gloves, because this is about electricity!
+- Remember to use gloves, because this is about electricity! Make sure you are safety from the High Voltage
 
 Here the picture :
 ![WhatsApp Image 2025-11-07 at 00 41 16](https://github.com/user-attachments/assets/aac48e96-da7d-44ef-bf76-dd74922c2a11)
